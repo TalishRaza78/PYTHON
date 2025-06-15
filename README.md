@@ -58,6 +58,8 @@ Choose the appropriate installer for your operating system:
 3. **Important**: Check the box that says **"Add Python to PATH"**.
 4. Click **Install Now**.
 
+---
+
 ##used for :
 
 🔹 1. Web Development
@@ -106,7 +108,27 @@ Libraries: SciPy, SymPy, Jupyter
 Use: Simulations, mathematics, research applications
 
 🔹 10. Education
+
+---
+
 Use: Easy syntax makes Python great for teaching coding and problem-solving
+
+String Functions in Python
+Python provides a rich set of built-in string methods to perform operations on strings. Some commonly used string functions include:
+
+len(string) – Returns the length of the string.
+
+string.lower() – Converts all characters to lowercase.
+
+string.upper() – Converts all characters to uppercase.
+
+string.strip() – Removes leading and trailing whitespace.
+
+string.replace(old, new) – Replaces a substring with another substring.
+
+string.find(substring) – Returns the index of the first occurrence of a substring.
+
+
 
 
 
