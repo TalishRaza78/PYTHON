@@ -2,4 +2,4 @@ print("hello world")
 
 #similar example 
 
-print("learn python")
+print("learn python") #basic example
