@@ -139,6 +139,19 @@ my_dict = {
     "age": 30,
     "city": "New York"
 }
+```
+
+## DICTIONARY METHOD 
+
+| Method          | Description                                  |
+| --------------- | -------------------------------------------- |
+| `dict.get(key)` | Returns the value for the key if exists      |
+| `dict.keys()`   | Returns a view object of all keys            |
+| `dict.values()` | Returns a view object of all values          |
+| `dict.items()`  | Returns a view object of all key-value pairs |
+| `dict.pop(key)` | Removes and returns the value for the key    |
+| `dict.clear()`  | Removes all items from the dictionary        |
+
 
 
 
