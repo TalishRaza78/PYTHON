@@ -127,6 +127,19 @@ single = ("one",)
 | Indexable | ✅             | ✅    | ✅             |
 | Iterable  | ✅             | ✅    | ✅             |
 
+# Python Dictionary
+
+A **dictionary** in Python is an unordered collection of key-value pairs. It is used to store data values where each value is accessed by a unique key.
+
+## Syntax
+
+```python
+my_dict = {
+    "name": "Alice",
+    "age": 30,
+    "city": "New York"
+}
+
 
 
 
