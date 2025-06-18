@@ -127,7 +127,7 @@ single = ("one",)
 | Indexable | ✅             | ✅    | ✅             |
 | Iterable  | ✅             | ✅    | ✅             |
 
-# Python Dictionary
+## 🗂️ DICTIONARY
 
 A **dictionary** in Python is an unordered collection of key-value pairs. It is used to store data values where each value is accessed by a unique key.
 
@@ -141,7 +141,7 @@ my_dict = {
 }
 ```
 
-## DICTIONARY METHOD 
+## Dictionary method 
 
 | Method          | Description                                  |
 | --------------- | -------------------------------------------- |
@@ -151,6 +151,29 @@ my_dict = {
 | `dict.items()`  | Returns a view object of all key-value pairs |
 | `dict.pop(key)` | Removes and returns the value for the key    |
 | `dict.clear()`  | Removes all items from the dictionary        |
+
+## 🔁 SET
+
+A **set** in Python is an unordered collection of **unique** and **immutable** elements. Sets are useful for membership testing, removing duplicates, and performing mathematical set operations like union, intersection, and difference.
+
+## Syntax
+
+```python
+my_set = {1, 2, 3, 4}
+```
+
+## Set method 
+
+| Method             | Description                                  |
+| ------------------ | -------------------------------------------- |
+| `add(x)`           | Adds element `x` to the set                  |
+| `remove(x)`        | Removes element `x` (raises error if absent) |
+| `discard(x)`       | Removes element `x` (no error if absent)     |
+| `clear()`          | Removes all elements                         |
+| `copy()`           | Returns a shallow copy                       |
+| `pop()`            | Removes and returns a random element         |
+
+
 
 
 
