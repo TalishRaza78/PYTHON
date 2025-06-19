@@ -173,6 +173,21 @@ my_set = {1, 2, 3, 4}
 | `copy()`           | Returns a shallow copy                       |
 | `pop()`            | Removes and returns a random element         |
 
+## 🔁 Python `while` Loop
+
+The `while` loop in Python is used to repeatedly execute a block of code **as long as a specified condition is `True`**.
+
+### EXAMPLE
+```
+counter = 0
+
+while counter < 5:
+    print("Counter is:", counter)
+    counter += 1
+```
+
+
+
 
 
 
