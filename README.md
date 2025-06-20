@@ -185,6 +185,17 @@ while counter < 5:
     print("Counter is:", counter)
     counter += 1
 ```
+## 🔁 for Loop in Python
+
+The `for` loop in Python is used to iterate over sequences such as lists, strings, tuples, or ranges.
+
+### 🔹 Examples
+
+```python
+fruits = ['apple', 'banana', 'cherry']
+for fruit in fruits:
+    print(fruit)
+```
 
 
 
