@@ -131,15 +131,6 @@ single = ("one",)
 
 A **dictionary** in Python is an unordered collection of key-value pairs. It is used to store data values where each value is accessed by a unique key.
 
-## Syntax
-
-```python
-my_dict = {
-    "name": "Alice",
-    "age": 30,
-    "city": "New York"
-}
-```
 
 ## Dictionary method 
 
@@ -156,11 +147,6 @@ my_dict = {
 
 A **set** in Python is an unordered collection of **unique** and **immutable** elements. Sets are useful for membership testing, removing duplicates, and performing mathematical set operations like union, intersection, and difference.
 
-## Syntax
-
-```python
-my_set = {1, 2, 3, 4}
-```
 
 ## Set method 
 
@@ -175,16 +161,9 @@ my_set = {1, 2, 3, 4}
 
 ## 🔁 Python `while` Loop
 
-The `while` loop in Python is used to repeatedly execute a block of code **as long as a specified condition is `True`**.
+The `while` loop in Python is used to repeatedly execute a block of code **as long as a specified
 
-### EXAMPLE
-```
-counter = 0
 
-while counter < 5:
-    print("Counter is:", counter)
-    counter += 1
-```
 ## 🔁 for Loop in Python
 
 The `for` loop in Python is used to iterate over sequences such as lists, strings, tuples, or ranges.
