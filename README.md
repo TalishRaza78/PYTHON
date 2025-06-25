@@ -73,13 +73,6 @@ This document provides an overview of three core data types in Python: **Strings
 
 Strings are **immutable** sequences of characters used to represent text.
 
-### ✅ Declaration
-```python
-name = "Alice"
-greeting = 'Hello, world!'
-multiline = """This is
-a multiline string."""
-```
 
 ## 📋 Lists (`list`)
 
@@ -87,36 +80,13 @@ Lists are **mutable**, ordered collections that can store multiple items, includ
 
 ---
 
-### ✅ Declaration
 
-You can create a list using square brackets `[]`:
-
-```python
-fruits = ["apple", "banana", "cherry"]
-numbers = [1, 2, 3, 4, 5]
-mixed = ["hello", 42, 3.14, True]
-empty = []
-
-```
 ## 📦 Tuples (`tuple`)
 
 Tuples are **immutable**, ordered collections in Python. They are used to store a fixed set of values that should not be changed during the execution of a program.
 
 ---
 
-### ✅ Declaration
-
-You can create a tuple using parentheses `()`:
-
-```python
-colors = ("red", "green", "blue")
-numbers = (1, 2, 3, 4)
-mixed = ("hello", 42, True, 3.14)
-
-# Single-item tuple (note the trailing comma)
-single = ("one",)
-
-```
 
 ## 🔍 Differences at a Glance
 
