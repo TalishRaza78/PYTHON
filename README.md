@@ -29,7 +29,6 @@ Python supports multiple programming paradigms including object-oriented, proced
 - Machine learning and AI (e.g. TensorFlow, scikit-learn)
 - Scripting and automation
 - Desktop applications
-- Games and simulations
 - Internet of Things (IoT) and robotics
 - APIs and backend services
 
