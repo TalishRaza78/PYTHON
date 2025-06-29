@@ -23,6 +23,10 @@ num = 10
 num += 5 #same for sub(-=), mul(*=), div(/=), modulas(%=), power(**=) 
 print("num:",num)
 
+x= 12
+x-= 10
+print("x:" , x)
+
 #4. logical operator (not , and , or)
 a=50
 b=30
