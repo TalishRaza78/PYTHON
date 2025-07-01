@@ -6,7 +6,7 @@ Welcome to this Python ! This repository contains Python code that demonstrates 
 
 ## 📖 What is Python?
 
-**Python** is a high-level, interpreted programming language created by **Guido van Rossum** and released in **1991**. It emphasizes readability, simplicity, and flexibility, making it popular for both beginners and professionals.
+**Python** is a high-level, interpreted programming language created by **Guido van Rossum** and released in **1991**. It emphasizes readability and flexibility, making it popular for both beginners and professionals.
 
 Python supports multiple programming paradigms including object-oriented, procedural, and functional programming.
 
