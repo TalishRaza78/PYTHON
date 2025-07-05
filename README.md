@@ -108,13 +108,7 @@ The `while` loop in Python is used to repeatedly execute a block of code **as lo
 
 The `for` loop in Python is used to iterate over sequences such as lists, strings, tuples, or ranges.
 
-### 🔹 Examples
 
-```python
-fruits = ['apple', 'banana', 'cherry']
-for fruit in fruits:
-    print(fruit)
-```
 
 
 
