@@ -12,7 +12,7 @@ Python supports multiple programming paradigms including object-oriented, proced
 
 ---
 
-## 🚀 Features of Python :
+## 🚀 Features of Python 
 
 - Clean and readable syntax
 - Interpreted (no need to compile)
